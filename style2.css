@@ -1,0 +1,59 @@
+
+.heading1{
+                    color: rgb(4, 37, 127);
+}
+.heading2{
+                    color: rgb(4, 121, 113);
+                    font-weight: 800;
+                    font-size: 44px;
+}
+
+button{
+                    color: rgb(57, 8, 131);
+                    background-color: rgb(205, 71, 22);   
+}
+p{
+                    text-align: center;
+                    font-weight: 600;
+                    font-family: cursive;
+                    
+}
+#headingone{
+                    text-align: center;
+                    text-decoration: red wavy underline;
+                    text-transform: capitalize;
+}
+#divition1{
+                    background-color: rgba(141, 177, 172, 0.874);
+                    width: 200px;
+                    height: 135px;
+                    border: 2px solid rgb(53, 3, 3);
+                    color: rgb(17, 2, 73);
+                    text-align: center;
+                    border-radius: 30%;
+                    padding: 20px;
+                    margin: 1px 2px 3px 4px;
+}
+
+#divition2{
+                    background-color: rgba(220, 143, 174, 0.874);
+                    width: 200px;
+                    height: 135px;
+                    border: 2px solid rgb(53, 3, 3);
+                    color: rgb(17, 2, 73);
+                    text-align: center;
+                    border-radius: 30%;
+                    padding: 20px;
+                    margin: 1px 2px 3px  4px;
+}
+#divition3{
+                    background-color: rgba(228, 227, 142, 0.874);
+                    width: 200px;
+                    height: 135px;
+                    border: 2px solid rgb(53, 3, 3);
+                    color: rgb(17, 2, 73);
+                    text-align: center;
+                    border-radius: 30%;
+                    padding: 20px;
+                    margin: 1px 2px 3px 4px;
+}

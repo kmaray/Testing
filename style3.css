@@ -1,0 +1,61 @@
+*{
+   padding: 0;
+   margin: 0;
+}
+.navbar{
+                    height: 60px;
+                    background-color: rgb(12, 0, 0);
+}
+button{
+                    background-color: rgb(148, 211, 234);
+                    color: aliceblue;
+}
+#logo{
+                    color: rgb(218, 140, 14);
+                    font-size: 25px;
+                    text-decoration: none;
+}
+
+#account{
+                    color: rgb(250, 249, 247);
+                    padding: 70px;
+                    margin: 70px;
+                    text-decoration: none;
+}
+
+#mycard{
+                    color: rgb(228, 227, 224);
+                    padding: 60px;
+                    margin: 60px;
+                    text-decoration: none;
+}
+
+#contactus{
+                    color: rgb(241, 241, 240);
+                    padding: 90px;
+                    margin: 80px;
+                    text-decoration: none;
+}
+.class1{
+   width: 100px;
+   height: 100px;
+   margin: 25px;
+   padding: 25px;
+   display: inline-block;
+   background-image: url(https://images.unsplash.com/photo-1566438480900-0609be27a4be?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1894&q=80) ;
+   background-size: contain;
+}
+.class2{
+   width: 100px;
+   height: 100px;
+   margin: 25px;
+   padding: 25px;
+   display: inline-block;
+}
+.class3{
+   width: 100px;
+   height: 100px;
+   margin: 25px;
+   padding: 25px;
+   display: inline-block;
+}

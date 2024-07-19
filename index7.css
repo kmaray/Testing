@@ -1,0 +1,14 @@
+#box{
+          background-color: aqua;
+          border: 5px silver solid;
+          text-align: center ;
+          height: 100px;
+          width: 100px;
+}
+.content{
+          color:rgba(210, 225, 223, 0.954);
+}
+
+.newcontent{
+          background-color: rgb(9, 161, 108);
+}

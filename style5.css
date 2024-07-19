@@ -1,0 +1,54 @@
+div {
+ background-color: #8b5d12;
+ width: 150px;
+ height: 150px;
+ border: 10px solid rgb(8, 8, 8);
+ text-align: center;
+ /*transition-property: all;
+ transition: all 2s ease-in ;*/
+ position: absolute;
+ top: 100px;
+ bottom: 100px;
+ left: 100px;
+ right: 100px;
+ animation-name: animetion;
+ animation-duration: 3s;
+ animation-timing-function: ease-in;
+ animation-iteration-count: 100;
+ animation-delay: 0s;
+}
+@keyframes animetion{
+                    0%{background-color: #8b5d12;}
+                    50%{background-color: blueviolet;}
+                    100%{ background-color: aqua;
+                        color: aliceblue;
+                    }
+} 
+
+/*@media(width:600px){
+           div{
+                    background-color: aqua;
+           }         
+}
+
+@media(min-width:200px) and (max-width:300px){
+           div{
+                    background-color: red;
+           }         
+}
+
+div:hover{
+                    background-color: rgba(158, 72, 238, 0.853);
+                    color: green;
+                    font-size: 20px;
+                    transform: scalex(2);
+                    rotate: z 180deg;
+                    transition-timing-function: cubic-bezier(.29, 1.01, 1, -0.68);
+                    transform: skew(50deg)
+
+
+}
+div:active{
+                    background-color: antiquewhite;
+                    color: red;
+}*/
